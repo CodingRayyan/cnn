@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29d5ff7f-821d-46d4-9e13-a82a77e22ec1)
+![image](https://github.com/user-attachments/assets/e51fc620-c69f-4cf2-92ca-35ca3dd0264b)
 
 # CNN Face Recognition
 
